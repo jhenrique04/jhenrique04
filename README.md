@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">My name is J. Henrique<br><br>- 🔭 I’m a Systems Analysis and Development student at UFC<br>- 📚 I'm currently learning, mostly, NLP/ML related stuff. <br>- I also try web development stuff sometimes, but it really isn´t my focus.</p>
+<p align="left">My name is J. Henrique<br><br>- 🔭 I’m a Systems Analysis and Development student at UFC<br>- 📚 I'm currently learning, mostly, NLP/ML related stuff <br>- ⚡ I also try web development stuff sometimes, but it really isn´t my focus</p>
 
 ###
 
