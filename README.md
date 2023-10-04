@@ -10,10 +10,6 @@
   </a>
   <a href="https://discord.com/channels/@me/ze#1858/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-henrique-viana-santos-100590266/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
@@ -26,7 +22,7 @@
 
 ###
 
-<p align="left">My name is J. Henrique<br><br>- 🔭 I’m a Systems Analysis and Development student at UFC<br>- 📚 I'm currently learning, mostly, Python and web development related stuff <br>- ⚡️ In my free time I like to play games and listen to some music</p>
+<p align="left">My name is J. Henrique<br><br>- 🔭 I’m a Systems Analysis and Development student at UFC<br>- 📚 I'm currently learning, mostly, NLP/ML related stuff. <br>- I also try web development stuff sometimes, but it really isn´t my focus.</p>
 
 ###
 
