@@ -27,7 +27,7 @@ Feel free to connect and collaborate on projects related to these areas!
   <a href="https://discord.com/channels/@me/ze#1858/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-henrique-viana-santos-100590266/" target="_blank">
+  <a href="www.linkedin.com/in/henrique-viana-100590266" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
