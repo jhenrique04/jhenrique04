@@ -1,35 +1,20 @@
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### Hello there 👋
 
-I'm José Henrique, a developer and student at the Federal University of Ceará, passionate about technology and open source contributions.
+#### Data Scientist & Scientific Researcher by day ☼ and Open Source Contributor by night ☾
 
-### ⚡ Technologies
-Talk to me about
-- Python and Rust programming
-- Machine Learning and Deep Learning
-- Open Source Contributions
-- Project Automation
-- Data Analysis with Python
+Data Scientist at [PrimeTech](https://www.linkedin.com/company/primetechjr/);<br>
+Scientific Researcher at [Universidade de São Paulo](https://www5.usp.br/)
 
-Feel free to connect and collaborate on projects related to these areas!
+- ⚙️ I use daily: `.py`, `.rs`, `.sh`
+- 🌍 I'm mostly active within the **Linux Community**
+- 💬 `ping` me about **machine learning**, **deep learning**, **computer vision**, **NLP**, **reinforcement learning**, **open source contributions**, **project automation**
 
-<div align="left">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,js,html,css,git,github,heroku,jenkins,vscode,linux,bash" />
-  </a>
-</div>
+🐙 &nbsp;**Open Source Contributions:**
+<!-- MERGED_PULL_REQUESTS_START -->
+  <span style="margin-left: 40px;">[![](https://img.shields.io/badge/GitHub-25%20pull%20requests%20merged-gray?style=flat&logo=github)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Ajhenrique04)</span>
+<!-- MERGED_PULL_REQUESTS_END -->
 
 
-###  📫 How to reach me:
-<div align="left">
-  <a href="https://t.me/zeapenas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me/ze#1858/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/henrique-viana-100590266/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-<br>
-<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+<p align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlZTZpeXU0eTBucjhwamtpbDcwNG1iMjJ2eW94YTl6MWplcjE0cyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.webp" alt="Hello there GIF" width="200" height="200"/>
+</p>
