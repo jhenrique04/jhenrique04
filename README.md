@@ -3,7 +3,7 @@
 #### Data Scientist & Scientific Researcher by day ☼ and Open Source Contributor by night ☾
 
 Data Scientist at [PrimeTech](https://www.linkedin.com/company/primetechjr/);<br>
-Scientific Researcher at [Universidade de São Paulo](https://www5.usp.br/)
+Scientific Researcher at [Universidade de São Paulo](https://www5.usp.br/);<br>
 
 - ⚙️ I use daily: `.py`, `.rs`, `.sh`
 - 🌍 I'm mostly active within the **Linux Community**
