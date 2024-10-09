@@ -7,7 +7,7 @@ Scientific Researcher at [Universidade Federal do Ceará](https://www.ufc.br/) &
 
 - ⚙️ I use daily: `.py`, `.rs`, `.sh`
 - 🌍 I'm mostly active within the **Linux Community**
-- 💬 `ping` me about **machine learning**, **deep learning**, **computer vision**, **NLP**, **reinforcement learning**, **open source contributions**, **project automation**
+- 💬 `ping` me about **machine learning**, **NLP**, **open source contributions**, **project automation** and **web development**
 
 🐙 &nbsp;**Open Source Contributions:**
 <!-- MERGED_PULL_REQUESTS_START -->
