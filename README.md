@@ -1,6 +1,6 @@
 Data Scientist at  **[Group of Computer Networks, Software Engineering and Systems (GREat)](https://www.linkedin.com/company/greatufc/)**;<br>
 Data Engineer at **[PrimeTech](https://www.linkedin.com/company/primetechjr/)**;<br>
-Scientific Researcher at [Federal University of Ceará (UFC)](https://www.ufc.br/) & [CNPq](https://www.gov.br/cnpq/pt-br) in partnership with [University of São Paulo (USP)](https://www5.usp.br/);<br>
+Scientific Researcher at **[Federal University of Ceará (UFC)](https://www.ufc.br/)** & **[CNPq](https://www.gov.br/cnpq/pt-br)**, in partnership with **[University of São Paulo (USP)](https://www5.usp.br/)**<br>
 
 - ⚙️ I use daily: `.py` & `.rs`
 - 🌍 I'm mostly active within the **Linux Community**
