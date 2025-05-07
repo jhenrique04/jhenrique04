@@ -2,7 +2,7 @@ Data Scientist at  **[Group of Computer Networks, Software Engineering and Syste
 Data Engineer at **[PrimeTech](https://www.linkedin.com/company/primetechjr/)**;<br>
 Scientific Researcher at **[Federal University of Ceará (UFC)](https://www.ufc.br/)** & **[CNPq](https://www.gov.br/cnpq/pt-br)**, in partnership with **[University of São Paulo (USP)](https://www5.usp.br/)**<br>
 
-- ⚙️ I use daily: `.py` & `.rs`
+- ⚙️ I use daily: `.py`, `.rs` & `.zig`
 - 🌍 I'm mostly active within the **Linux Community**
 - 💬 `ping` me about **machine learning**, **distributed systems**, **open source contributions**, **project automation** and **web development**
 
