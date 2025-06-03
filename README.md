@@ -2,7 +2,7 @@ Software Engineer at **[Insight Data Science Lab](https://www.linkedin.com/compa
 Data Scientist at **[Group of Computer Networks, Software Engineering and Systems (GREat)](https://www.linkedin.com/company/greatufc/)**;<br>
 Scientific Researcher at **[Federal University of Ceará (UFC)](https://www.ufc.br/)**<br>
 
-- I use daily: `.py`, `.rs` & `.zig`
+- I use daily: `.rs`, `.py` & `.zig`
 - I'm mostly active within the **Linux Community**
 - `ping` me about **machine learning**, **distributed systems**, **open source contributions**, **project automation** and **web development**
 
