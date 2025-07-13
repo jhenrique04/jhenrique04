@@ -66,7 +66,6 @@ Exploring machine learning, automation and open source collaboration.
 [![Diesel](https://img.shields.io/badge/Diesel-%23322C2B?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Rustls](https://img.shields.io/badge/Rustls-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
 [![ring](https://img.shields.io/badge/ring-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
-[![sodiumoxide](https://img.shields.io/badge/Sodiumoxide-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
 [![TUI‑rs](https://img.shields.io/badge/TUI‑rs-%23377799?style=for-the-badge&logo=rust&logoColor=white)]()
 
 [![Actix Web](https://img.shields.io/badge/Actix_Web-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
