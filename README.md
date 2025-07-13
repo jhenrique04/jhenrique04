@@ -31,7 +31,7 @@ Exploring machine learning, automation and open source collaboration.
 [![Rust](https://img.shields.io/badge/Rust-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)]()
 [![Zig](https://img.shields.io/badge/Zig-f7a41d?style=for-the-badge&logo=zig&logoColor=white)]()
-[![Clojure](https://img.shields.io/badge/Clojure-%2333B5E5?style=for-the-badge&logo=clojure&logoColor=white)]()
+[![Bash](https://img.shields.io/badge/Bash-1D1D1D?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
@@ -47,7 +47,7 @@ Exploring machine learning, automation and open source collaboration.
 
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]() [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=google-cloud&logoColor=white)]() [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=google-cloud&logoColor=white)]() [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffffff)](https://firebase.google.com/)
 
-[![Linux](https://img.shields.io/badge/Linux-2E3440?style=for-the-badge&logo=linux&logoColor=white)]() [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]() [![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-2E3440?style=for-the-badge&logo=linux&logoColor=white)]() [![Bash](https://img.shields.io/badge/Bash-1D1D1D?style=for-the-badge&logo=gnu-bash&logoColor=white)]() [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]() [![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)]()
 
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%23161b22.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)]()
 
