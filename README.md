@@ -82,6 +82,7 @@ Exploring machine learning, automation and open source collaboration.
 [![Seaborn](https://img.shields.io/badge/Seaborn-%23377EB8?style=for-the-badge&logo=python&logoColor=white)]()
 [![SciPy](https://img.shields.io/badge/SciPy-%238E44AD?style=for-the-badge&logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
 
