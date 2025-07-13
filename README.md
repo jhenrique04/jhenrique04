@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" alt="Ferris the Rustacean" width="120" style="vertical-align: middle;"/>
-  <span style="font-size: 32px; font-weight: bold; margin-left: 12px; vertical-align: middle;">Welcome</span>
-</p>
+<h2 align="center">
+  <img align="center" src="https://rustacean.net/assets/rustacean-flat-gesture.svg" height="72px" />
+  Welcome!
+</h2>
+
 
 
 <details>
