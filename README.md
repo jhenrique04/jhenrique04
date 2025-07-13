@@ -45,7 +45,7 @@ Exploring machine learning, automation and open source collaboration.
   <summary>Cloud & DevOps</summary>
 ㅤㅤㅤㅤㅤㅤㅤㅤ
 
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]() [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=google-cloud&logoColor=white)]() [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]() [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=google-cloud&logoColor=white)]() [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=google-cloud&logoColor=white)]() [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffffff)](https://firebase.google.com/)
 
 [![Linux](https://img.shields.io/badge/Linux-2E3440?style=for-the-badge&logo=linux&logoColor=white)]() [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]() [![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)]()
 
