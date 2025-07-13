@@ -36,8 +36,8 @@ Exploring machine learning, automation and open source collaboration.
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffffff)](https://firebase.google.com/)
 
 </details>
 
@@ -57,25 +57,26 @@ Exploring machine learning, automation and open source collaboration.
   <summary>Libraries & Frameworks</summary>
 ㅤㅤㅤㅤㅤ
 
-**Rust:**  
+**Rust:**
+
 [![Vodozemac](https://img.shields.io/badge/Vodozemac-%236E40C9?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Tokio](https://img.shields.io/badge/Tokio-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
 [![SQLx](https://img.shields.io/badge/SQLx-%23007ACC?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Serde](https://img.shields.io/badge/Serde-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
-[![Actix Web](https://img.shields.io/badge/Actix_Web-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
-[![Rocket](https://img.shields.io/badge/Rocket-%23212121?style=for-the-badge&logo=rust&logoColor=white)]()
-[![Bevy](https://img.shields.io/badge/Bevy-%2300D269?style=for-the-badge&logo=rust&logoColor=white)]()
-[![Tide](https://img.shields.io/badge/Tide-%2345A29E?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Diesel](https://img.shields.io/badge/Diesel-%23322C2B?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Rustls](https://img.shields.io/badge/Rustls-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
 [![ring](https://img.shields.io/badge/ring-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
 [![sodiumoxide](https://img.shields.io/badge/Sodiumoxide-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
 [![TUI‑rs](https://img.shields.io/badge/TUI‑rs-%23377799?style=for-the-badge&logo=rust&logoColor=white)]()
-[![Matrix‑rust‑sdk](https://img.shields.io/badge/Matrix‑rust‑sdk-%231D1D1D?style=for-the-badge&logo=matrix&logoColor=white)]()  
 
-**Python:**  
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![Actix Web](https://img.shields.io/badge/Actix_Web-%23D34516?style=for-the-badge&logo=rust&logoColor=white)]()
+[![Rocket](https://img.shields.io/badge/Rocket-%23212121?style=for-the-badge&logo=rust&logoColor=white)]()
+[![Bevy](https://img.shields.io/badge/Bevy-%2300D269?style=for-the-badge&logo=rust&logoColor=white)]()
+[![Tide](https://img.shields.io/badge/Tide-%2345A29E?style=for-the-badge&logo=rust&logoColor=white)]()
+
+ㅤ
+**Python:**
+
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E6550D?style=for-the-badge&logo=python&logoColor=white)]()
@@ -84,7 +85,11 @@ Exploring machine learning, automation and open source collaboration.
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
-[![SDV](https://img.shields.io/badge/SDV-%2332375B?style=for-the-badge&logo=python&logoColor=white)]() [![XGBoost](https://img.shields.io/badge/XGBoost-%2332475B?style=for-the-badge&logo=python&logoColor=white)]()
+
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]()
 
 </details>
 
@@ -92,7 +97,7 @@ Exploring machine learning, automation and open source collaboration.
   <summary>Software & IDEs</summary>
 ㅤㅤㅤㅤ
 
-[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/) [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)]() [![Matrix](https://img.shields.io/badge/Matrix-1d1d1d?style=for-the-badge&logo=matrix&logoColor=white)]()
+[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/) [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)]() [![Matrix](https://img.shields.io/badge/Matrix-1d1d1d?style=for-the-badge&logo=matrix&logoColor=white)]() 
 
 [![Zed](https://img.shields.io/badge/Zed-ffffff?style=for-the-badge&logo=zedindustries&logoColor=084CCF)]() [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]() [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-097dcd.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 
