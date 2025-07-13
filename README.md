@@ -1,4 +1,7 @@
-<img src="snufkin.jpg" alt="Snufkin" width="200" style="border-radius: 12px;" />
+<p align="center">
+  <img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" alt="Ferris the Rustacean" width="120" style="vertical-align: middle;"/>
+  <span style="font-size: 32px; font-weight: bold; margin-left: 12px; vertical-align: middle;">Welcome</span>
+</p>
 
 
 <details>
@@ -11,12 +14,13 @@ Software developer working with Rust, Python and distributed systems.
 Exploring machine learning, automation and open source collaboration.
 ```
 
- - **Software Engineer** at [Insight Data Science Lab](https://www.linkedin.com/company/insight-data-science-lab/)  
- - **Data Scientist** at [GREat](https://www.linkedin.com/company/greatufc/)  
- - **Scientific Researcher** at [Federal University of Ceará (UFC)](https://www.ufc.br/)  
+- **Software Engineer** at [Insight Data Science Lab](https://www.linkedin.com/company/insight-data-science-lab/)  
+- **Data Scientist** at [GREat](https://www.linkedin.com/company/greatufc/)  
+- **Scientific Researcher** at [Federal University of Ceará (UFC)](https://www.ufc.br/)  
 
-[![GitHub – PRs Merged](https://img.shields.io/badge/GitHub-25%20PRs%20Merged-000?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Ajhenrique04)
-
+<sub><strong>Previously:</strong></sub>
+- **Data Engineer** at [PrimeTech](https://www.linkedin.com/company/primetechjr/posts/?feedView=all)
+- **Research Collaborator** at [CNPq](https://www.gov.br/cnpq/pt-br), in partnership with the [University of São Paulo (USP)](https://www5.usp.br/)
 </details>
 
 <details>
