@@ -11,10 +11,11 @@
   
 ```bash
 $ whoami
-Software developer working with Rust, Python and distributed systems.
+Software architect working with Rust, Python and distributed systems.
 Exploring machine learning, automation and open source collaboration.
 ```
 
+- **Software Architect** at [Inspecion](https://www.linkedin.com/company/inspecion/)  
 - **Software Engineer** at [Insight Data Science Lab](https://www.linkedin.com/company/insight-data-science-lab/)  
 - **Data Scientist** at [GREat](https://www.linkedin.com/company/greatufc/)  
 - **Scientific Researcher** at [Federal University of Ceará (UFC)](https://www.ufc.br/)  
