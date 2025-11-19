@@ -15,12 +15,13 @@ Software architect working with Rust, Python and distributed systems.
 Exploring machine learning, automation and open source collaboration.
 ```
 
+- **Data Scientist** at [goTest](https://www.linkedin.com/company/gotestconsultoria/posts/?feedView=all)  
 - **Software Architect** at [Inspecion](https://www.linkedin.com/company/inspecion/)  
 - **Software Engineer** at [Insight Data Science Lab](https://www.linkedin.com/company/insight-data-science-lab/)  
-- **Data Scientist** at [GREat](https://www.linkedin.com/company/greatufc/)  
 - **Scientific Researcher** at [Federal University of Ceará (UFC)](https://www.ufc.br/)  
 
 <sub><strong>Previously:</strong></sub>
+- **Data Scientist** at [GREat](https://www.linkedin.com/company/greatufc/)  
 - **Data Engineer** at [PrimeTech](https://www.linkedin.com/company/primetechjr/posts/?feedView=all)
 - **Research Collaborator** at [CNPq](https://www.gov.br/cnpq/pt-br), in partnership with the [University of São Paulo (USP)](https://www5.usp.br/)
 </details>
