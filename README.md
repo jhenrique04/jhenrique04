@@ -14,11 +14,10 @@ $ whoami
 Software architect working with Rust, Python and distributed systems.
 Exploring machine learning, automation and open source collaboration.
 ```
-
 - **Data Scientist** at [goTest](https://www.linkedin.com/company/gotestconsultoria/posts/?feedView=all)  
-- **Software Architect** at [Inspecion](https://www.linkedin.com/company/inspecion/)  
 - **Software Engineer** at [Insight Data Science Lab](https://www.linkedin.com/company/insight-data-science-lab/)  
-- **Scientific Researcher** at [Federal University of Ceará (UFC)](https://www.ufc.br/)  
+- **Software Architect** _(Consultant)_ at [Inspecion](https://www.linkedin.com/company/108218204/)
+- **MSc Student (Master’s Degree)** at [Federal University of Ceará (UFC)](https://www.ufc.br/)  
 
 <sub><strong>Previously:</strong></sub>
 - **Data Scientist** at [GREat](https://www.linkedin.com/company/greatufc/)  
