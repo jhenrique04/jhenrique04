@@ -20,9 +20,9 @@ Exploring applied cryptography, secure systems, distributed computing and AI.
 
 <sub><strong>Previously:</strong></sub>
 - **Software Architect** at [Inspecion](https://www.linkedin.com/company/108218204/)
-- **Software Engineer** at [Insight Data Science Lab](https://www.linkedin.com/company/insight-data-science-lab/)  
+- **Software Engineer** at [Insight Data Science Lab](https://www.linkedin.com/company/insight-data-science-lab/)
+- **Data Scientist** at [goTest](https://www.linkedin.com/company/gotestconsultoria/posts/?feedView=all)  
 - **Data Scientist** at [GREat](https://www.linkedin.com/company/greatufc/)  
-- **Data Engineer** at [PrimeTech](https://www.linkedin.com/company/primetechjr/posts/?feedView=all)
 - **Research Collaborator** at [CNPq](https://www.gov.br/cnpq/pt-br), in partnership with the [University of São Paulo (USP)](https://www5.usp.br/)
 </details>
 
