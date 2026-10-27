@@ -14,12 +14,14 @@ $ whoami
 Software architect working with Rust, Python and distributed systems.
 Exploring machine learning, automation and open source collaboration.
 ```
-- **Data Scientist** at [goTest](https://www.linkedin.com/company/gotestconsultoria/posts/?feedView=all)  
-- **Software Engineer** at [Insight Data Science Lab](https://www.linkedin.com/company/insight-data-science-lab/)  
-- **Software Architect** _(Consultant)_ at [Inspecion](https://www.linkedin.com/company/108218204/)
+- **Software Engineer** at [FCPC](https://www.linkedin.com/company/funda%C3%A7%C3%A3o-cearense-de-pesquisa-e-cultura/)
+- **Quality Assurance (QA)** at [GREat](https://www.linkedin.com/company/greatufc/)
 - **MSc Student (Master’s Degree)** at [Federal University of Ceará (UFC)](https://www.ufc.br/)  
 
 <sub><strong>Previously:</strong></sub>
+- **Software Architect** _(Consultant)_ at [Inspecion](https://www.linkedin.com/company/108218204/)
+- **Software Engineer** at [Insight Data Science Lab](https://www.linkedin.com/company/insight-data-science-lab/)  
+- **Data Scientist** at [goTest](https://www.linkedin.com/company/gotestconsultoria/posts/?feedView=all)  
 - **Data Scientist** at [GREat](https://www.linkedin.com/company/greatufc/)  
 - **Data Engineer** at [PrimeTech](https://www.linkedin.com/company/primetechjr/posts/?feedView=all)
 - **Research Collaborator** at [CNPq](https://www.gov.br/cnpq/pt-br), in partnership with the [University of São Paulo (USP)](https://www5.usp.br/)
