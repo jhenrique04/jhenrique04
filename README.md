@@ -11,8 +11,8 @@
   
 ```bash
 $ whoami
-Software architect working with Rust, Python and distributed systems.
-Exploring machine learning, automation and open source collaboration.
+Software engineer working with distributed systems.
+Exploring applied cryptography, secure systems, distributed computing and AI.
 ```
 - **Software Engineer** at [FCPC](https://www.linkedin.com/company/funda%C3%A7%C3%A3o-cearense-de-pesquisa-e-cultura/)
 - **Quality Assurance (QA)** at [GREat](https://www.linkedin.com/company/greatufc/)
